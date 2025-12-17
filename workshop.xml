@@ -1,0 +1,8 @@
+<Mod  
+   name="Better CJK Pixel Font"  
+   description=""  
+   tags="graphics,quality of life,translations,tweaks"  
+   dont_upload_folders=".vscode|.git"  
+   dont_upload_files=".editorconfig|workshop_preview_image.png"  
+>  
+</Mod>
